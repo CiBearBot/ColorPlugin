@@ -1,0 +1,12 @@
+name: ColorPlugin
+author: CiBear
+version: 1
+api:
+- 3.11.0
+main: cibear\color\Color
+website: https://github.com/CiBearBot/ColorPlugin
+depend:
+- PureChat
+commands:
+ color:
+  description:
